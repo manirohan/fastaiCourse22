@@ -1,9 +1,22 @@
-bird.jpg
-forest.jpg
+
 .DS_Store
 *.csv
 *.pkl
 *.zip
+# Ignore all image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.bmp
+*.tiff
+
+
+
+
+
+
 us-patent-phrase-to-phrase-matching*
 paddy-disease-classification/
 titanic*
